@@ -1,0 +1,2 @@
+//Local path to adminsdk.json
+//URL path to firebase database
