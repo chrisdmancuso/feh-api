@@ -21,3 +21,6 @@ Then, using FastAPI, [endpoints](main.py) were created that allow users to retri
 
 #### Retrieve Unit Info By Name:
 ![feh-api-example2](https://user-images.githubusercontent.com/31321037/179052919-cd672c86-7090-4eb1-ba4c-d26e09c32f87.JPG)
+
+#### Retrieve Units By Weapon/Color/Move Type:
+![feh-api-example3](https://user-images.githubusercontent.com/31321037/179318635-02aad563-78b1-4918-a259-64febffd9aa1.JPG)
